@@ -8,8 +8,8 @@ The goal of the study is to develop models for effective prediction of plant bio
 
 ## Data
 
-* [Tomatoes] (https://github.com/DmitriiShadrin/TGD-Tomato-Growth-Dynamics)
-* [Arabidopsis thaliana] (https://figshare.com/s/e18a978267675059578f)
+* [Tomatoes](https://github.com/DmitriiShadrin/TGD-Tomato-Growth-Dynamics)
+* [Arabidopsis thaliana](https://figshare.com/s/e18a978267675059578f)
 * [Weed](https://vision.eng.au.dk/leaf-counting-dataset/)
 
 ## Methods
