@@ -36,9 +36,12 @@ Adam (lr=0.007)
 ### DenseNet architecture
 Best results were achived by DensNet169 architecture.
 
-![Confusion matrix](/images/fig8.jpg)
+![Confusion matrix](/images/output1.png)
 
 
 ### Transfer learning
 We have high hopes for the transfer method, but unfortunately we have not yet been able to obtain impressive results using this method.
 
+![Confusion matrix](/images/image_2020-06-07_21-10-11.png)
+
+For more detales, please check DL_Final_Project.pdf
