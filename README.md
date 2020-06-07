@@ -9,7 +9,8 @@ The goal of the study is to develop models for effective prediction of plant bio
 ## Data
 
 * [Tomatoes](https://github.com/DmitriiShadrin/TGD-Tomato-Growth-Dynamics)
-* [Weed](https://vision.eng.au.dk/leaf-counting-dataset/)
+* [Weeds](https://vision.eng.au.dk/leaf-counting-dataset/)
+
 ![Example](/images/fig2.png)
 
 The problem is data is very unbalanced.
