@@ -1,6 +1,6 @@
 # Deep Learning techniques for plant growth classification
 
-Image-based phenotyping technologies have been rapidly developed in plant science recently, they provide a great potential for agriculture.
+Image-based phenotyping technologies have been rapidly developed in plant science recently, they provide a great potential for agriculture. Our work is about weeds growth classification.
 
 * Weeds are nuisance on the farmland, as they compete for plant nutrient
 * Farmers must  know the weeds’ conditions on the field  in order to spray optimally, and minimize herbicide usage on soil
