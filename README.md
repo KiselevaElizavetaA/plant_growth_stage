@@ -10,15 +10,26 @@ The goal of the study is to develop models for effective prediction of plant bio
 
 * [Tomatoes](https://github.com/DmitriiShadrin/TGD-Tomato-Growth-Dynamics)
 * [Weed](https://vision.eng.au.dk/leaf-counting-dataset/)
+![Example](/images/fig2.png)
+
+The problem is data is very unbalanced.
+![Class unbalanced](/images/fig1.png)
 
 ## Methods
 ### Data augmentation
-* Resize $(128, 128)$;
+* Resize (128, 128);
 * Random Affine transformation (20);
 * Random Horizontal Flip;
 * Random Vertical Flip;
 * Random Rotation (180);
 * ColorJitter (brightness=0.3, contrast=0.4).
 
+### Optimization Algorithm
+Adam (lr=0.007)
+
+### DenseNet architecture
+Best results were achived by DensNet169 architecture.
+![DensNet169 architecture](/images/table.png)
 
 ## Results
+![Confusion matrix](/images/fig8.png)
