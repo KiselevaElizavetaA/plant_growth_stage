@@ -2,7 +2,11 @@
 
 Image-based phenotyping technologies have been rapidly developed in plant science recently, they provide a great potential for agriculture.
 
-The goal of the study is to develop models for effective prediction of plant biomass, and classification of plant growth stages, based on labeled visual data. For that we are planning to use different promising Deep Learning techniques, such as CNN and LSTM.
+* Weeds are nuisance on the farmland, as they compete for plant nutrient
+* Farmers must  know the weeds’ conditions on the field  in order to spray optimally, and minimize herbicide usage on soil
+* They must maintain weed control, by targeting specific weeds.
+
+Effective estimation of weed growth stage for farmer to determine the best time for applying herbicide to specific weeds. i.e Optimal weed eradication.
 
 ![https://www.lightrail3.com/light-movers-equal-faster-plant-growth/](https://sun9-39.userapi.com/e7otZk5LvI-f3u0Vc04JBGbidvBG7kodBBxCtg/51Abg4YrZzU.jpg)
 
@@ -14,6 +18,7 @@ The goal of the study is to develop models for effective prediction of plant bio
 ![Example](/images/fig2.png)
 
 The problem is data is very unbalanced.
+
 ![Class unbalanced](/images/fig1.png)
 
 ## Methods
@@ -37,4 +42,3 @@ Best results were achived by DensNet169 architecture.
 ### Transfer learning
 We have high hopes for the transfer method, but unfortunately we have not yet been able to obtain impressive results using this method.
 
-## Results
