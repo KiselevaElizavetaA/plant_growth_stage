@@ -1,4 +1,4 @@
-# Prediction of plant biomass and classification of their growth stages
+# Deep Learning techniques for plant growth classification
 
 Image-based phenotyping technologies have been rapidly developed in plant science recently, they provide a great potential for agriculture.
 
@@ -9,9 +9,16 @@ The goal of the study is to develop models for effective prediction of plant bio
 ## Data
 
 * [Tomatoes](https://github.com/DmitriiShadrin/TGD-Tomato-Growth-Dynamics)
-* [Arabidopsis thaliana](https://figshare.com/s/e18a978267675059578f)
 * [Weed](https://vision.eng.au.dk/leaf-counting-dataset/)
 
 ## Methods
+### Data augmentation
+* Resize $(128, 128)$;
+* Random Affine transformation (20);
+* Random Horizontal Flip;
+* Random Vertical Flip;
+* Random Rotation (180);
+* ColorJitter (brightness=0.3, contrast=0.4).
+
 
 ## Results
