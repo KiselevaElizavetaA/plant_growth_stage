@@ -33,4 +33,4 @@ Best results were achived by DensNet169 architecture.
 ![DensNet169 architecture](/images/table.png)
 
 ## Results
-![Confusion matrix](/images/fig8.png)
+![Confusion matrix](/images/fig8.jpg)
